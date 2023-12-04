@@ -1,0 +1,10 @@
+item,data type
+chat id,string
+declared age,number array
+declared name,string array
+declared phone numbers,string array
+declared region or address,string array
+declared interests or hobbies,string array
+declared marriage status,string array
+declared appearance,string array
+declared occupations,string array
